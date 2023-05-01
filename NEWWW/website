@@ -1,0 +1,7 @@
+https://github.com/mweswa/mweswa.github.io
+cd mweswa.github.io
+echo "hello world">index.html
+
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
